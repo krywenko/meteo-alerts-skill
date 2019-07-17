@@ -10,9 +10,9 @@ weather warngings = Προειδοποιήσεις καιρού Ευρώπης:
 
 caption
 
-for greek is Caption
+for greek is Caption      (and if you wanted to use greek language lietuviu: )
 
-but spanish page it  uses Leyenda: french uses Légende:  etc 
+but spanish page it  uses Leyenda: french uses Légende:  etc  for caption
 
 usage is simple just say "climate alerts"  or "weather alerts" and it will read out any  current alerts
 
