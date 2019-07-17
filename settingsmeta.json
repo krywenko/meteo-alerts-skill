@@ -1,0 +1,52 @@
+{
+    "name": "metro-alerts",
+    "skillMetadata": {
+        "sections": [
+            {
+                "name": "WEB URL",
+                "fields": [
+                    {
+                        "name": "web_id",
+                        "type": "text",
+                        "label": "URL - check http://meteoalarm.eu/",
+                        "value": "http://meteoalarm.eu/en_UK/0/0/NO012-Telemark.html"
+                    }
+                ]
+            },
+            {
+                "name": "TITLE",
+                "fields": [
+                    {
+                        "name": "title_id",
+                        "type": "text",
+                        "label": "title - change if using different language ",
+                        "value": "Weather warnings"
+                    }
+                ]
+            },
+            {
+                "name": "Caption",
+                "fields": [
+                    {
+                        "name": "cap_id",
+                        "type": "text",
+                        "label": "Caption - change if displayed in different language",
+                        "value": "Caption"
+                    }
+                ]
+            },
+            {
+                "name": "Language",
+                "fields": [
+                    {
+                        "name": "lang_id",
+                        "type": "text",
+                        "label": "what language you wish",
+                        "value": "english"
+                    }
+                ]
+            }
+            
+        ]
+    }
+}

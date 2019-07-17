@@ -1,0 +1,2 @@
+lynx
+sudo apt install lynx
