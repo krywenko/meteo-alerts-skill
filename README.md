@@ -10,7 +10,7 @@ weather warngings = Προειδοποιήσεις καιρού Ευρώπης:
 
 caption
 
-for greek is Caption      (and if you wanted to use greek language lietuviu: )
+for greek is still Caption      (and if you wanted to use greek language lietuviu: )
 
 but spanish page it  uses Leyenda: french uses Légende:  etc  for caption
 
