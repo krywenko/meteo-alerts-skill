@@ -18,7 +18,7 @@ cat /tmp/w.buf | sed -n "/$SPLIT/, $ p" | head -3 | sed '1d;2d' > /tmp/tmp.w
 input2="$(cat /tmp/tmp.w)"
 if [ -z "$input2" ]
 then
-      echo "No Alert found"
+      echo "....."
 else
 
 ############## process alerts ################
