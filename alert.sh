@@ -24,7 +24,7 @@ else
 ############## process alerts ################
 
 
-echo $input2 
+echo $input2 .
 
 fi
 done  <<< "$input"
